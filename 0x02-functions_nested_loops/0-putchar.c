@@ -2,7 +2,7 @@
 
 /**
  * main - print _putchar
- * is written by venture
+ * written by venture
  * Return: 0
  */
 
@@ -17,5 +17,7 @@ _putchar('h');
 _putchar('a');
 _putchar('r');
 _putchar('\n');
+
 return (0);
+
 }
