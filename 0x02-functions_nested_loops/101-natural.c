@@ -3,7 +3,7 @@
 /**
  * main - list all the natural numbers that are
  *        multiples of 3 or 5 excluding 1024
- * 
+ *
  * Return: Always 0
  */
 
